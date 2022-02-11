@@ -1,6 +1,6 @@
 ##### README #####
 
-Follow these instructions to install the back-end
+Follow these instructions to install the front-end
 GAspard
 Hedy
 
